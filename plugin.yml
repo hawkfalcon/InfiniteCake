@@ -1,0 +1,7 @@
+name: InfiniteCake
+version: 0.1
+main: com.hawkfalcon1.infinitecake.InfiniteCake
+permissions:
+    infinitecake.use:
+        description: Lets you have infinite cake!
+        default: OP
